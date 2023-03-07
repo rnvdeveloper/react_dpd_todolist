@@ -48,7 +48,7 @@ git clone https://github.com/rnvdeveloper/react_dpd_todolist
 Run this command to install dependencies of the project:
 
 ```bash
-npm start
+npm install
 ```
 
 ### Starting
