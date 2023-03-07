@@ -1,0 +1,26 @@
+.task-container {
+   background-color: #444;
+   margin: 8px 0;
+   padding: 15px 15px;
+   border-radius: 5px;
+   color: #eee;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+   .task-title {
+      flex: 2;
+      cursor: pointer;
+   }
+
+   .buttons-container {
+      :where(.remove-task-button, .see-task-details-button) {
+         background-color: #444;
+         border: none;
+         font-size: 1rem;
+         color: #7fff00;
+         cursor: pointer;
+      }
+   }
+}
+
