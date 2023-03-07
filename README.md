@@ -1,10 +1,10 @@
-# What is this? <hr>
+# What is this?
 
 This project was developed as part of my React learning journey.
 
 Different from the tutorial I used as reference, I used Vite for project creation and development as it is very lighter and faster than the proposed method.
 
-## What you will see <hr>
+## What you will see
 
 - Hooks: useState, useEffetc, useNavigate, useParams
 - BrowserRouter
@@ -16,7 +16,7 @@ Different from the tutorial I used as reference, I used Vite for project creatio
 - Data manipulation (mapping, filtering and displaying elements)
 - SASS
 
-## Differences <hr>
+## Differences
 As this project was originally created in 2021 there are some differences regarding the current react-router-dom@6.8.2 and the one used for the tutorial (react-router-dom@5.2.0):
    - useNavigate instead useHistory
    - BrowserRouter structure
@@ -37,7 +37,7 @@ As this project was originally created in 2021 there are some differences regard
    - Changed initial tasks status as red marked to better identify the incomplete tasks
    - The tasks displayed are provided by jsonplaceholder, to use your own data you may comment fetching and use the mock available in the project.
 
-## Installation <hr>
+## Installation
 You can clone, fork or download the project;
 
 ```bash
