@@ -6,7 +6,7 @@ import { v4 as uuidv4 } from "uuid";
 import axios from "axios";
 
 import Header from "./components/Header";
-import AddTaskContainer from "./components/AddTaskContainer/AddTaskContainer";
+import AddTaskContainer from "./components/AddTaskContainer";
 import TaskListContainer from "./components/TaskListContainer";
 import TaskDetails from "./components/TaskDetails";
 

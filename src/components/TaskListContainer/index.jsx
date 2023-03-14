@@ -1,1 +1,1 @@
-export {default} from './TaskListContainer.jsx'
+export {default} from './TaskListContainer'
